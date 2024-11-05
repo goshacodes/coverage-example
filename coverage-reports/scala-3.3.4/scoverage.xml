@@ -1,0 +1,799 @@
+<scoverage 
+statement-count="235" statements-invoked="117" statement-rate="49.79" branch-rate="30.00" version="1.0" timestamp="1730786012492">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="235" statements-invoked="117" statement-rate="49.79">
+            <classes>
+                <class 
+                name="&lt;empty&gt;.$anon" filename="Foo.scala" statement-count="179" statements-invoked="69" statement-rate="38.55" branch-rate="25.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/$anon/enrichSchema" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="enrichSchema" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="enrichSchema" start="2842" end="2866" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/join" statement-count="37" statements-invoked="20" statement-rate="54.05" branch-rate="50.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="574" end="591" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="join" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/mergeAnnotations" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="mergeAnnotations" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="mergeAnnotations" start="5323" end="5351" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="mergeAnnotations" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="mergeAnnotations" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/withCache" statement-count="28" statements-invoked="14" statement-rate="50.00" branch-rate="62.50">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="5870" end="5891" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="withCache" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/typeNameToSchemaName" statement-count="9" statements-invoked="7" statement-rate="77.78" branch-rate="50.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="1978" end="2010" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="typeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/$anonfun" statement-count="51" statements-invoked="10" statement-rate="19.61" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/getEncodedName" statement-count="2" statements-invoked="2" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="getEncodedName" start="2677" end="2703" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="getEncodedName" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/allTypeArguments" statement-count="3" statements-invoked="3" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="allTypeArguments" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="allTypeArguments" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="allTypeArguments" start="2080" end="2100" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/split" statement-count="33" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="4023" end="4041" line="13" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="split" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/productSchemaType" statement-count="7" statements-invoked="7" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="productSchemaType" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="productSchemaType" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="productSchemaType" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="productSchemaType" start="1446" end="1475" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="productSchemaType" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="productSchemaType" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="productSchemaType" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/$anon/subtypeNameToSchemaName" statement-count="3" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="subtypeNameToSchemaName" start="2503" end="2538" line="13" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="subtypeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="$anon" class-type="Class" full-class-name="&lt;empty&gt;.$anon" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="subtypeNameToSchemaName" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="&lt;empty&gt;.Foo" filename="Foo.scala" statement-count="56" statements-invoked="48" statement-rate="85.71" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/Foo/&lt;init&gt;" statement-count="48" statements-invoked="44" statement-rate="91.67" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="&lt;init&gt;" start="209" end="223" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Foo/foo" statement-count="4" statements-invoked="4" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="foo" start="144" end="164" line="9" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="foo" start="144" end="164" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="foo" start="67" end="74" line="7" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="foo" start="135" end="138" line="9" branch="true" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Foo/unsafeCast" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="unsafeCast" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="unsafeCast" start="3087" end="3101" line="13" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                        <method 
+                        name="&lt;empty&gt;/Foo/$anonfun" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Foo" class-type="Object" full-class-name="&lt;empty&gt;.Foo" source="/Users/g.kovalev/IdeaProjects/coverage-example/src/main/scala/Foo.scala" method="$anonfun" start="209" end="223" line="12" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
